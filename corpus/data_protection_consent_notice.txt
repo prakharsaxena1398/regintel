@@ -1,0 +1,15 @@
+Title: Data Protection Notice - Consent Notice Template for Processing of Personal Data
+
+Version: Template Notice No. 1/2024, prepared for internal compliance use, aligned to the Digital Personal Data Protection Act, 2023.
+
+1. Notice to the data principal
+Every data fiduciary shall give the data principal a notice before or as soon as practicable after obtaining personal data, and the notice shall be in plain language describing the personal data sought, the purpose of processing, and the manner in which the data principal may exercise his rights. Where personal data is collected indirectly from a third party, the data fiduciary shall give the notice before the personal data is disclosed to any other person. A data fiduciary shall not process personal data for any purpose other than the purposes specified in the notice, and any further processing shall require a fresh notice and fresh consent.
+
+2. Consent and withdrawal
+Consent shall be obtained by an unequivocal affirmative action, and the data fiduciary shall provide an itemised list of the purposes for which consent is sought so that the data principal may give consent for each purpose separately. The data principal shall have the right to withdraw consent at any time, and the data fiduciary shall provide a simple mechanism for withdrawal that is no more onerous than the mechanism for giving consent. On withdrawal of consent, the data fiduciary shall cease processing of the personal data for the purpose concerned within a reasonable period and shall inform the data principal of the consequences of withdrawal, if any.
+
+3. Rights of the data principal
+The data principal may request access to his personal data, request correction of inaccurate or incomplete data, request completion of incomplete data, and request erasure of data that is no longer necessary for the specified purpose.
+
+4. Security safeguards
+The data fiduciary shall take reasonable security safeguards to prevent a personal data breach, and shall notify the affected data principals and the Board of a breach in the manner prescribed by the rules.

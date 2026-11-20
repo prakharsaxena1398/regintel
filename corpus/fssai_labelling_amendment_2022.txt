@@ -1,0 +1,15 @@
+Title: FSSAI Food Safety and Standards (Labelling and Display) Amendment - Excerpt on Nutritional Information
+
+Version: Food Safety and Standards (Labelling and Display) Amendment Regulations, 2022, notified on 02 February 2022 by the Food Safety and Standards Authority of India.
+
+1. Declaration of nutritional information
+Every pre-packaged food shall carry a declaration of nutritional information on the label, and the declaration shall cover energy value in kilocalories, the amounts of protein, carbohydrate and sugar, and the amount of fat per 100 grams or per 100 millilitres or per single serve packet. The food business operator shall provide the information per serve in addition to the information per 100 grams where a serve is defined on the label. Nutritional information shall not be required on foods packaged in containers of less than fifty grams where the surface area of the package is limited, provided the operator displays the ingredient list on an adjoining label.
+
+2. High fat, salt and sugar marking
+Where a pre-packaged food contains energy from fat, salt or sugar above the threshold specified in the Schedule, the food business operator shall display a distinguishing mark on the front of the pack indicating that the food is high in fat, salt or sugar. The mark shall occupy not less than thirty square centimetres of the front of pack area, and the operator shall not obscure the mark with any promotional text or graphic. Where a food is exempted from marking, the operator shall record the basis of the exemption and shall produce the record on demand by the food safety officer.
+
+3. Allergen declaration
+Every food business operator shall declare on the label the presence of each allergen specified in the Schedule, and the allergen shall be declared in bold letters within the list of ingredients.
+
+4. Enforcement
+Food safety officers shall draw samples of pre-packaged food for verification of label declarations, and where a declaration is false or misleading, the operator shall be liable to penalty under section 66 of the Act.
