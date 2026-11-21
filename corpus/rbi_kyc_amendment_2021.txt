@@ -1,0 +1,15 @@
+Title: RBI Know Your Customer Master Direction - Amendment of 2021 - Excerpt on Video Based Customer Identification
+
+Version: Amendment Direction No. RBI/DBR/2020-21/74 Master Direction-KYC Section 16, dated 28 April 2021, Reserve Bank of India.
+
+1. Insertion of video based identification
+In the Know Your Customer Master Direction, 2016, after paragraph 18, the following shall be inserted, namely: banks may adopt video based customer identification process for the purpose of establishing an account-based relationship with any customer. A bank adopting the video based process shall comply with the conditions specified in this amendment and shall obtain the approval of the board for the process before implementation.
+
+2. Conditions for the video process
+The video based customer identification process shall be a live and authorised official representative process, and the bank shall record both audio and video of the interaction. The activity log of the video session shall be retained by the bank, and the bank shall carry out the liveliness check in order to establish that the process is real time. The geo-tagging of the location of the customer shall form part of the video record, and the bank shall analyse the video feed for any tampering before the account is opened. Where the liveliness check fails, the bank shall not open the account on the basis of that session and shall require the customer to complete an alternative identification process.
+
+3. Alternative documents
+A bank conducting the video based process shall verify the customer identity from the information captured online and from the officially valid document submitted by the customer, and shall obtain a clear image of the document through the video session. The bank shall match the photograph on the document with the customer facing the camera, and shall confirm the customer's signature or specimen signature from the document produced during the session.
+
+4. Review and audit
+Banks shall subject the video based identification process to periodic internal audit, and the audit report shall be placed before the audit committee of the board at least once a year.

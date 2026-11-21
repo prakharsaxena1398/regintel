@@ -1,0 +1,15 @@
+Title: GST Circular No. 12/2023-R (Revised) - Clarifications on Input Tax Credit under Section 16(2)(b)
+
+Version: Circular No. 12/2023-R (Revised), issued on 05 December 2023 by the Central Board of Indirect Taxes and Customs (CBIC), superseding Circular No. 12/2023 with effect from 1 January 2024.
+
+1. Purpose
+This revised circular re-issues the clarifications on availing input tax credit (ITC) under clause (b) of sub-section (2) of section 16 of the Central Goods and Services Tax Act, 2017, after consultation with the trade and the field formations. The revised clarifications take into account the recommendations of the GST Council made in its fifty-first meeting and replace the corresponding portions of Circular No. 12/2023.
+
+2. Conditions for availing credit
+A registered person shall avail input tax credit on any invoice only after the supplier concerned has deposited the tax with the government, either in cash or by utilising input tax credit available in his electronic credit ledger. The recipient shall verify that the invoice appears in his statement of inward supplies furnished in FORM GSTR-2B before taking credit in respect of that invoice. Where the tax shown in the invoice has not been paid by the supplier, the recipient shall approach the supplier within thirty days of the issue of the invoice, and shall remit the tax along with interest under section 50 only if payment is not made by the supplier within thirty days of the receipt of such communication.
+
+3. Restriction for smaller taxpayers
+A registered person whose aggregate turnover in the preceding financial year exceeds Rs 2.5 crore shall avail the credit in accordance with the fortnightly procedure specified in Annexure I, and the quarterly procedure shall apply only to persons with an aggregate turnover up to Rs 2.5 crore.
+
+4. Compliance and records
+Every registered person claiming credit shall maintain records of the correspondence with the supplier, and any demand raised contrary to this circular shall be reviewed by the jurisdictional Commissioner before enforcement.

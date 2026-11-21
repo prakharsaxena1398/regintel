@@ -1,0 +1,15 @@
+Title: GST Circular No. 135/2020 - Procedure for Refund of Unutilised Input Tax Credit on Account of Zero-Rated Supplies
+
+Version: Circular No. 135/2020, issued on 31 March 2020 by the Central Board of Indirect Taxes and Customs (CBIC), in supersession of Circular No. 125/2019.
+
+1. Eligibility for refund
+A registered person making zero-rated supplies of goods or services or both under bond or letter of undertaking without payment of integrated tax shall be eligible to file a claim for refund of unutilised input tax credit in FORM GST RFD-01 on the common portal. The claim shall cover only the input tax credit appearing in the electronic credit ledger on the date of filing, and the registered person shall certify that no prosecution proceeding is pending against him under the Act at the time of filing.
+
+2. Calculation of the refund amount
+The refund of unutilised input tax credit shall be calculated in the manner laid down in sub-rule (5) of rule 89 of the Central Goods and Services Tax Rules, 2017, and the registered person shall declare the turnover of zero-rated supplies and the ineligible credit in the statement furnished along with the claim. Where the registered person has availed duty drawback, the amount of drawback shall be excluded from the turnover of zero-rated supplies for the purpose of the calculation. The registered person shall not claim refund of credit availed on capital goods in the same claim as the credit on inputs.
+
+3. Deficiency memo and re-filing
+Where the application for refund is found to be deficient, the proper officer shall issue a deficiency memo in FORM GST RFD-03 within fifteen days of the receipt of the application, and the registered person shall re-file the application within fifteen days of the receipt of the memo.
+
+4. Time limits and interest
+The proper officer shall pass an order on the refund claim within sixty days of the receipt of the complete application, and interest shall be paid at the notified rate where the order is not passed within that period.
