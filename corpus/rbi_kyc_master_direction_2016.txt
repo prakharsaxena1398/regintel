@@ -1,0 +1,15 @@
+Title: RBI Master Direction - Know Your Customer (KYC) Direction, 2016 - Excerpt on Customer Due Diligence
+
+Version: Master Direction No.
+
+1. Application and commencement
+These directions apply to every banking company, every scheduled cooperative bank and every branch of a bank incorporated outside India and functioning in India, and shall come into force with immediate effect. Every regulated entity shall formulate a Know Your Customer policy approved by its board, and shall review the policy at least once in every two years to take into account changes in these directions and in the risk environment of the entity.
+
+2. Customer due diligence procedure
+Every bank shall undertake customer due diligence before establishing an account-based relationship, and shall identify and verify the identity of its customers using reliable and independent source documents, data or information. Banks shall also identify the beneficial owner and take reasonable steps to verify his identity, in the manner provided in the rules framed under the Prevention of Money-Laundering Act, 2002. Where a customer has been categorised as high risk, the bank shall obtain approval from senior management before opening the account and shall apply enhanced due diligence measures proportionate to the higher risk.
+
+3. Periodic updation of records
+Banks shall update the identity documents and the address of every customer at periodic intervals not exceeding ten years for low risk customers, eight years for medium risk customers and two years for high risk customers, counting from the date of opening of the relationship or the date of the last updation. Where the bank decides to conduct periodic updation in respect of a low risk customer without physical presence, the bank shall carry out certification through a video call or by obtaining an officially valid document through a certified digital channel.
+
+4. Reporting and records
+Banks shall furnish information relating to suspicious transactions to the Financial Intelligence Unit India in the prescribed formats, and shall designate a senior officer as the principal officer responsible for monitoring and reporting of all transactions.

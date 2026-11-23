@@ -1,0 +1,15 @@
+Title: RBI Know Your Customer Master Direction - Amendment of 2023 - Excerpt on Risk Assessment and Periodic Updation
+
+Version: Amendment Direction No.
+
+1. Risk assessment exercise
+Every regulated entity shall conduct an independent risk assessment exercise to identify the level of risk associated with each customer, product, delivery channel and geographical area of operation, and shall document the methodology adopted for the assessment. The risk categories shall be low, medium and high, and the entity shall review the risk categorisation of customers at least once every two years. Where the risk assessment indicates emerging risk from any delivery channel, the entity shall apply enhanced measures to that channel and shall inform the Reserve Bank in writing within thirty days of the conclusion of the assessment.
+
+2. Periodic updation of KYC records
+Regulated entities shall perform periodic updation of the KYC data and documents of every customer at intervals not exceeding ten years for low risk customers, eight years for medium risk customers and two years for high risk customers. The entity shall update the identity of the customer where the officially valid document submitted earlier has expired, and shall obtain fresh documents without insisting on the physical presence of the customer where the process is carried out digitally. Where the customer fails to respond to the request for periodic updation within the notice period, the entity shall restrict the operations of the account in the manner notified by the Reserve Bank.
+
+3. Central KYC records registry
+Entities shall download the customer's KYC records from the Central KYC Records Registry before undertaking customer due diligence for a new account, and shall upload the records where the customer does not exist in the registry.
+
+4. Record retention
+All records relating to the identity of the customer and transactions shall be preserved for five years from the date of cessation of the relationship, and records maintained in electronic form shall be tamper proof with a complete audit trail.

@@ -1,0 +1,15 @@
+Title: SEBI Circular No. 03/2024 - Amendment to LODR on Disclosure Timelines and Materiality Threshold
+
+Version: Circular No. 03/2024, dated 18 January 2024, Securities and Exchange Board of India, amending Circular No. 12/2023 read with the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.
+
+1. Revised disclosure timeline
+Every listed entity shall disclose to the stock exchange any agreement which is material within twelve hours of entering into the agreement, and the earlier timeline of twenty-four hours shall stand substituted with effect from 1 April 2024. An agreement shall be considered material where the board of the listed entity deems it material or where the value of the agreement exceeds five per cent of the audited annual turnover of the entity as per the last audited financial statements. The listed entity shall place the disclosed agreement on its website for a period of not less than eight years from the date of disclosure, and shall redact commercially sensitive portions only where permitted under the framework.
+
+2. Structured digital database
+Every listed entity and its material subsidiaries shall maintain a structured digital database containing the names of the persons with whom material unpublished price sensitive information is shared under a code of conduct, and the database shall be maintained internally with adequate internal controls and checks. A listed entity that stores the database on a cloud service shall obtain a certificate from the service provider confirming that the data is hosted in India, and shall furnish the certificate to the Board on demand.
+
+3. Consequences of delay
+Where a listed entity fails to make a disclosure within the revised timeline, the entity shall pay a delay fee of Rs 5,000 per day of delay, computed from the due date of disclosure until the date of actual disclosure, and the compliance officer shall be personally answerable for repeated defaults.
+
+4. Review
+The compliance officer shall place before the board, on a monthly basis, a report of the disclosures made during the month, and the board shall record its observations in the minutes of the meeting.

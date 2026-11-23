@@ -1,0 +1,15 @@
+Title: SEBI Circular No. 12/2023 - LODR Amendments on Disclosure of Material Agreements
+
+Version: Circular No. 12/2023, dated 25 August 2023, Securities and Exchange Board of India, issued under Regulation 101 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.
+
+1. Disclosure of material agreements
+Every listed entity shall disclose to the stock exchange any agreement entered into by the entity or by any of its subsidiaries which is material, within twenty-four hours of entering into the agreement. An agreement shall be considered material where the board of the listed entity deems it material or where the value of the agreement exceeds ten per cent of the audited annual turnover of the entity as per the last audited financial statements. The listed entity shall place the disclosed agreement on its website for a period of not less than five years from the date of disclosure, and shall redact commercially sensitive portions only where permitted under the framework.
+
+2. Structured digital database
+Every listed entity and its material subsidiaries shall maintain a structured digital database containing the names of the persons with whom material unpublished price sensitive information is shared under a code of conduct, and the database shall be maintained internally with adequate internal controls and checks. The entity may store the information in a cloud service located outside India, provided the information remains accessible to the entity at all times and is auditable for inspection by the Board.
+
+3. Timeline for disclosure of outcomes
+Where an event or information that requires disclosure under Regulation 30 has occurred, the listed entity shall disclose the outcome of the event within the timelines specified in the framework, and shall not delay the disclosure on the ground that the event has not become effective.
+
+4. Compliance reporting
+The compliance officer shall place before the board, on a quarterly basis, a report of the disclosures made during the quarter, and the board shall record its observations in the minutes of the meeting.
